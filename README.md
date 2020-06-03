@@ -6,7 +6,7 @@ _AWS RoboMaker sample applications include third-party software licensed under o
 
 Keywords: Reinforcement learning, AWS, RoboMaker
 
-![deepracer-hard-track-world.jpg](docs/deepracer-hard-track-world.jpg)
+![deepracer-hard-track-world.jpg](deepracer-hard-track-world.jpg)
 
 ## Requirements
 
