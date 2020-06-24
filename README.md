@@ -1,3 +1,6 @@
+# Training videos
+https://www.youtube.com/playlist?list=PLoTzzogdxO3kx95EHU3ZvtNskmaf4SvrW
+
 # Deep Racer
 
 This Sample Application runs a simulation which trains a reinforcement learning (RL) model to drive a car around a track.  This version has been modified from the original to support the University at Buffalo CSE department in training various RL models locally without using Amazon Web Services to load and store data.
